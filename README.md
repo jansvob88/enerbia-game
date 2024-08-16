@@ -7,3 +7,4 @@ I used this project to learn very basics of C# and OOP, creating objects, workin
 
 12 classes, 3000 lines
 C#, OOP, no commentary, unfinished methods
+![enerbia1](https://github.com/user-attachments/assets/9898bef6-e826-471b-9e36-b8e499457695)
